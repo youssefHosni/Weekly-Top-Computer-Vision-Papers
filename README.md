@@ -66,7 +66,7 @@ Top computer vision papers published by the scientific community every month.
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces](https://arxiv.org/abs/2303.06146) |[:octocat:](https://www.mmlab-ntu.com/project/styleganex/) | In this paper, authors  propose a simple and effective solution to this limitation by using dilated convolutions to rescale the receptive fields of shallow layers in StyleGAN, without altering any model parameters. This allows fixed-size small features at shallow layers to be extended into larger ones that can accommodate variable resolutions, making them more robust in characterizing unaligned faces. |
-| []()  |  | |
+| [Consistency Models](https://arxiv.org/abs/2303.01469)|-- |The authors propose consistency models, a new family of generative models that achieve high sample quality without adversarial training. They support fast one-step generation by design, while still allowing for few-step sampling to trade compute for sample quality. |
 | []()  | | |
 | []()  | | |
 | []()  | | |
