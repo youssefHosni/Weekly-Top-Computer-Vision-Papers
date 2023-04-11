@@ -9,7 +9,6 @@ Top computer vision papers published by the scientific community every month.
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-|[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) |  | |
 | []()  |  | |
 | []()  | | |
 | []()  | | |
@@ -25,7 +24,7 @@ Top computer vision papers published by the scientific community every month.
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| []()  |  | |
+|[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) | [:octocat:](https://diffusion-classifier.github.io) | |
 | []()  | | |
 | []()  | | |
 | []()  | | |
