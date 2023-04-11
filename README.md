@@ -18,9 +18,13 @@ Top computer vision papers published by the scientific community every month.
 
 <h2 align="left">Top Computer Vision Papers in March 2023:</h2>
 
+
+
+<h4 align="left">Text to Image Generation:</h4>
+
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-|[]() |  | |
+|[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555) |[Project Page](https://github.com/thu-ml/unidiffuser) | |
 | []()  |  | |
 | []()  | | |
 | []()  | | |
