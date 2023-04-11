@@ -24,7 +24,7 @@ Top computer vision papers published by the scientific community every month.
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-|[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555) |[Project Page](https://github.com/thu-ml/unidiffuser) | |
+|[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555) |[Project Page](https://github.com/thu-ml/unidiffuser) | This paper proposes a unified diffusion framework (dubbed UniDiffuser) to fit all distributions relevant to a set of multi-modal data in one model. Inspired by the unified view, UniDiffuser learns all distributions simultaneously with a minimal modification to the original diffusion model - perturbs data in all modalities instead of a single modality, inputs individual timesteps in different modalities, and predicts the noise of all modalities instead of a single modality. |
 | []()  |  | |
 | []()  | | |
 | []()  | | |
