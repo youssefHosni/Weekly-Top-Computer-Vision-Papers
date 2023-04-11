@@ -56,8 +56,8 @@ Top computer vision papers published by the scientific community every month.
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891) |[:octocat:](https://vibashan.github.io/ovis-web/) |This paper proposes a manual-mask-free approach for open-vocabulary instance segmentation leveraging a pre-trained vision-language model. Specifically, the authors generate pseudo-masks annotations for objects of interest from image-caption pairs using pre-trained VLM and weakly-supervised proposal and segmentation networks. These generated pseudo-mask annotations are then used to train an instance segmentation model, completely eliminating the need for human-provided box-level or pixel-level annotations.  |
-| []()  |  | |
-| []()  | | |
+| [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803.pdf) |[:octocat:](https://jerryxu.net/ODISE/) | |
+| [Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision](https://arxiv.org/abs/2303.05503) |[:octocat:](https://tarun005.github.io/UDOS/)| |
 | []()  | | |
 | []()  | | |
 
