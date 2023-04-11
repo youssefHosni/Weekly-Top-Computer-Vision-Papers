@@ -30,6 +30,16 @@ Top computer vision papers published by the scientific community every month.
 | []()  | | |
 
 
+<h4 align="left">Vision Model Optimization:</h4>
+
+| Paper  | Links | Abstract / Short Summary |
+| ------------- | ------------- |------------- |
+| [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226) | -- |In this paper, the authors explore the effectiveness of MoE in scaling vision-language models, demonstrating its potential to achieve state-of-the-art performance on a range of benchmarks over dense models of equivalent computational cost. |
+| []()  | | |
+| []()  | | |
+
+
+
 
 <h4 align="left">Text to Image Generation:</h4>
 
