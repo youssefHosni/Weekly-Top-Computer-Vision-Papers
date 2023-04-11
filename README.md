@@ -20,6 +20,18 @@ Top computer vision papers published by the scientific community every month.
 
 
 
+
+<h4 align="left">Image Classification:</h4>
+
+| Paper  | Links | Abstract / Short Summary |
+| ------------- | ------------- |------------- |
+| []()  |  | |
+| []()  | | |
+| []()  | | |
+| []()  | | |
+
+
+
 <h4 align="left">Text to Image Generation:</h4>
 
 | Paper  | Links | Abstract / Short Summary |
