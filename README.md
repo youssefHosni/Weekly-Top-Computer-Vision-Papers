@@ -24,7 +24,9 @@ Top computer vision papers published by the scientific community every month.
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-|[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) | [:octocat:](https://diffusion-classifier.github.io) | |
+|[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) | [:octocat:](https://diffusion-classifier.github.io) | In this paper, the authors show that the density estimates from large-scale text-to-image diffusion models like Stable Diffusion can be leveraged to perform zero-shot classification without any additional training. 
+The  generative approach to classification, which they called Diffusion Classifier, attains strong results on a variety of benchmarks and outperforms alternative methods of extracting knowledge from diffusion models. 
+Although a gap remains between generative and discriminative approaches on zero-shot recognition tasks, they found that this diffusion-based approach has stronger multimodal relational reasoning abilities than competing discriminative approaches.|
 | []()  | | |
 | []()  | | |
 | []()  | | |
