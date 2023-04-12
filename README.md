@@ -18,8 +18,6 @@ Top computer vision papers published by the scientific community every month.
 <h2 align="left">Top Computer Vision Papers in March 2023:</h2>
 
 
-
-
 <h4 align="left">Image Classification:</h4>
 
 | Paper  | Links | Abstract / Short Summary |
@@ -37,7 +35,6 @@ Top computer vision papers published by the scientific community every month.
 | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226) | -- |In this paper, the authors explore the effectiveness of MoE in scaling vision-language models, demonstrating its potential to achieve state-of-the-art performance on a range of benchmarks over dense models of equivalent computational cost. |
 | []()  | | |
 | []()  | | |
-
 
 
 
@@ -67,6 +64,6 @@ Top computer vision papers published by the scientific community every month.
 | ------------- | ------------- |------------- |
 |[StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces](https://arxiv.org/abs/2303.06146) |[:octocat:](https://www.mmlab-ntu.com/project/styleganex/) | In this paper, authors  propose a simple and effective solution to this limitation by using dilated convolutions to rescale the receptive fields of shallow layers in StyleGAN, without altering any model parameters. This allows fixed-size small features at shallow layers to be extended into larger ones that can accommodate variable resolutions, making them more robust in characterizing unaligned faces. |
 | [Consistency Models](https://arxiv.org/abs/2303.01469)|-- |The authors propose consistency models, a new family of generative models that achieve high sample quality without adversarial training. They support fast one-step generation by design, while still allowing for few-step sampling to trade compute for sample quality. |
-| []()  | | |
+|[Scaling up GANs for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/static/paper/gigagan_cvpr2023_compressed.pdf) |[:octocat:](https://mingukkang.github.io/GigaGAN/) |Can we scale up GANs to benefit from large datasets like LAION? In this paper, the authors found that naÏvely increasing the capacity of the StyleGAN architecture quickly becomes unstable. They introduced GigaGAN, a new GAN architecture that far exceeds this limit, demonstrating GANs as a viable option for text-to-image synthesis. GigaGAN offers three major advantages. First, it is orders of magnitude faster at inference time, taking only 0.13 seconds to synthesize a 512px image. Second, it can synthesize high-resolution images, for example, 16-megapixel pixels in 3.66 seconds. Finally, GigaGAN supports various latent space editing applications such as latent interpolation, style mixing, and vector arithmetic operations. |
 | []()  | | |
 | []()  | | |
