@@ -74,10 +74,14 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| []()  | | |
-| []()  | | |
-| []()  | | |
-| []()  | | |
+| [Video-P2P: Video Editing with Cross-attention Control]()  | | |
+| [Edit-A-Video: Single Video Editing with Object-Aware Consistency]()  |  | |
+| [VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs]()  | | |
+| [StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing]()  | | |
+| [MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path]()  | | |
+| [StyO: Stylize Your Face in Only One-Shot]()  | | |
+| [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models]()  | | |
+
 
 
 <h4 align="left">7. Text to Image Generation:</h4>
@@ -85,10 +89,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555) |[:octocat:](https://github.com/thu-ml/unidiffuser) | This paper proposes a unified diffusion framework (dubbed UniDiffuser) to fit all distributions relevant to a set of multi-modal data in one model. Inspired by the unified view, UniDiffuser learns all distributions simultaneously with a minimal modification to the original diffusion model - perturbs data in all modalities instead of a single modality, inputs individual timesteps in different modalities, and predicts the noise of all modalities instead of a single modality. |
-| []()  |  | |
-| []()  | | |
-| []()  | | |
-| []()  | | |
 
 
 <h4 align="left">8. Image & Video Reconstruction:</h4>
