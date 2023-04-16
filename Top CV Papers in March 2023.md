@@ -7,7 +7,7 @@ In March 2023, several top-tier academic conferences and journals showcased inno
 In this notebook, we will provide a comprehensive overview of the most significant papers published in March 2023, highlighting the latest research and advancements in computer vision. The papers can be in this 9 categories:
 
 * [Image Recognition](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=1.%20Image%20Recognition)
-* [Vision Model Optimization]()
+* [Vision Model Optimization](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=2.%20Vision%20Model%20Optimization)
 * [Generative Adversarial Networks (GANS)]()
 * [Image Segmentation]()
 * [Video Analysis]()
