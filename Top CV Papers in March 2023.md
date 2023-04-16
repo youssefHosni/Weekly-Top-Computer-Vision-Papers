@@ -18,7 +18,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 
-<h4 align="left">1. Image Recognition:</h4>
+<h4 align="left">1. Image Recognition </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -28,7 +28,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | []()  | | |
 
 
-<h4 align="left">2. Vision Model Optimization:</h4>
+<h4 align="left">2. Vision Model Optimization </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
