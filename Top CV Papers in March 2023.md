@@ -62,13 +62,13 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| [Video-P2P: Video Editing with Cross-attention Control]()  | | |
-| [Edit-A-Video: Single Video Editing with Object-Aware Consistency]()  |  | |
-| [VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs]()  | | |
-| [StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing]()  | | |
-| [MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path]()  | | |
-| [StyO: Stylize Your Face in Only One-Shot]()  | | |
-| [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models]()  | | |
+| [Video-P2P: Video Editing with Cross-attention Control](https://arxiv.org/abs/2303.04761) | [:octocat:](https://video-p2p.github.io/) | |
+| [Edit-A-Video: Single Video Editing with Object-Aware Consistency](https://arxiv.org/abs/2303.07945)  | [:octocat:](https://edit-a-video.github.io) | |
+| [VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs](https://arxiv.org/abs/2303.15893)  |[:octocat:](http://afruehstueck.github.io/vive3D/) | |
+| [StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing](https://arxiv.org/abs/2303.15649) | -- | |
+| [MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path](https://arxiv.org/abs/2303.16765) | -- | |
+| [StyO: Stylize Your Face in Only One-Shot](https://arxiv.org/abs/2303.03231) | -- | |
+| [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599) | -- | |
 
 
 <h4 align="left">7. Text to Image Generation </h4>
