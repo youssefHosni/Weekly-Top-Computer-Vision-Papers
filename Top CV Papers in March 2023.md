@@ -114,10 +114,16 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| []()  |  | |
-| []()  | | |
-| []()  | | |
-| []()  | | |
+| [PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling]()  |  | |
+| [X-Avatar: Expressive Human Avatars]()  | | |
+| [Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition]()  | | |
+| [NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer]()  | | |
+| [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views]()  | | |
+| [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices]()  | | |
+| [3D Cinemagraphy from a Single Image]()  | | |
+| [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes]()  | | |
+
+
 
 <h4 align="left">9. Action Recognition:</h4>
 
