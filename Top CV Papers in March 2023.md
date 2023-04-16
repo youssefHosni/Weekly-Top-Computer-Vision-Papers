@@ -23,9 +23,10 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) | [:octocat:](https://diffusion-classifier.github.io) | In this paper, the authors show that the density estimates from large-scale text-to-image diffusion models like Stable Diffusion can be leveraged to perform zero-shot classification without any additional training. The  generative approach to classification, which they called Diffusion Classifier, attains strong results on a variety of benchmarks and outperforms alternative methods of extracting knowledge from diffusion models. Although a gap remains between generative and discriminative approaches on zero-shot recognition tasks, they found that this diffusion-based approach has stronger multimodal relational reasoning abilities than competing discriminative approaches.|
-| []()  | | |
-| []()  | | |
-| []()  | | |
+| [Prismer: A Vision-Language Model with An Ensemble of Experts](https://arxiv.org/abs/2303.02506) |[:octocat:](https://shikun.io/projects/prismer) | |
+| [A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision](https://arxiv.org/abs/2303.17376)  | | |
+| [SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer](https://arxiv.org/abs/2303.17605)  | | |
+| [Patches Are All You Need? — proposes ConvMixer](https://arxiv.org/abs/2201.09792)  | | |
 
 
 <h4 align="left">2. Vision Model Optimization </h4>
@@ -33,9 +34,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226) | -- |In this paper, the authors explore the effectiveness of MoE in scaling vision-language models, demonstrating its potential to achieve state-of-the-art performance on a range of benchmarks over dense models of equivalent computational cost. |
-| []()  | | |
-| []()  | | |
-
 
 <h4 align="left"> 3. Generative Adversarial Networks (GANS) </h4>
 
@@ -44,9 +42,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 |[StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces](https://arxiv.org/abs/2303.06146) |[:octocat:](https://www.mmlab-ntu.com/project/styleganex/) | In this paper, authors  propose a simple and effective solution to this limitation by using dilated convolutions to rescale the receptive fields of shallow layers in StyleGAN, without altering any model parameters. This allows fixed-size small features at shallow layers to be extended into larger ones that can accommodate variable resolutions, making them more robust in characterizing unaligned faces. |
 | [Consistency Models](https://arxiv.org/abs/2303.01469)|-- |The authors propose consistency models, a new family of generative models that achieve high sample quality without adversarial training. They support fast one-step generation by design, while still allowing for few-step sampling to trade compute for sample quality. |
 |[Scaling up GANs for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/static/paper/gigagan_cvpr2023_compressed.pdf) |[:octocat:](https://mingukkang.github.io/GigaGAN/) |Can we scale up GANs to benefit from large datasets like LAION? In this paper, the authors found that naÏvely increasing the capacity of the StyleGAN architecture quickly becomes unstable. They introduced GigaGAN, a new GAN architecture that far exceeds this limit, demonstrating GANs as a viable option for text-to-image synthesis. GigaGAN offers three major advantages. First, it is orders of magnitude faster at inference time, taking only 0.13 seconds to synthesize a 512px image. Second, it can synthesize high-resolution images, for example, 16-megapixel pixels in 3.66 seconds. Finally, GigaGAN supports various latent space editing applications such as latent interpolation, style mixing, and vector arithmetic operations. |
-| []()  | | |
-| []()  | | |
-
 
 
 <h4 align="left">4. Image Segmentation </h4>
@@ -65,9 +60,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Unmasked Teacher: Towards Training-Efficient Video Foundation Models](https://arxiv.org/abs/2303.16058)|[:octocat:](https://github.com/OpenGVLab/unmasked_teacher)  | |
-| []()  | | |
-| []()  | | |
-| []()  | | |
+
 
 
 <h4 align="left">6. Image & Video Editing </h4>
@@ -81,7 +74,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | [MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path]()  | | |
 | [StyO: Stylize Your Face in Only One-Shot]()  | | |
 | [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models]()  | | |
-
 
 
 <h4 align="left">7. Text to Image Generation </h4>
@@ -106,9 +98,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | [Token Merging for Fast Stable Diffusion](https://arxiv.org/abs/2303.17604)|[:octocat:](https://github.com/dbolya/tomesd) | |
 | [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989) |[:octocat:](https://lukashoel.github.io/text-to-room/) | |
 | [SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger](https://arxiv.org/abs/2303.17561) | | |
-
-[:octocat:]()
-
 
 <h4 align="left">8. Image & Video Reconstruction </h4>
 
