@@ -8,7 +8,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 * [Image Recognition](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=1.%20Image%20Recognition)
 * [Vision Model Optimization](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=2.%20Vision%20Model%20Optimization)
-* [Generative Adversarial Networks (GANS)]()
+* [Generative Adversarial Networks (GANS)](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=3.%20Generative%20Adversarial%20Networks%C2%A0(GANS))
 * [Image Segmentation]()
 * [Video Analysis]()
 * [Image & Video Editing]()
