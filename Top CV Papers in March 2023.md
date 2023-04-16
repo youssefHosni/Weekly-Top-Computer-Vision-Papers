@@ -98,14 +98,14 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| [PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling]()  |  | |
-| [X-Avatar: Expressive Human Avatars]()  | | |
-| [Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition]()  | | |
-| [NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer]()  | | |
-| [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views]()  | | |
-| [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices]()  | | |
-| [3D Cinemagraphy from a Single Image]()  | | |
-| [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes]()  | | |
+| [PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/abs/2303.02416) | -- | |
+| [X-Avatar: Expressive Human Avatars](https://skype-line.github.io/projects/X-Avatar/) |[:octocat:](https://arxiv.org/abs/2303.04805) | |
+| [Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition](https://arxiv.org/abs/2303.06138) | -- | |
+| [NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer](https://arxiv.org/abs/2303.06919)  |[:octocat:](https://redrock303.github.io/nerflix/)  | |
+| [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://arxiv.org/abs/2211.16431) | -- | |
+| [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices](https://arxiv.org/abs/2303.01932) |[:octocat:](https://github.com/ActiveVisionLab/MobileBrick) | |
+| [3D Cinemagraphy from a Single Image](https://arxiv.org/abs/2303.05724) |[:octocat:](https://xingyi-li.github.io/3d-cinemagraphy/) | |
+| [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431) | -- | |
 
 
 
@@ -113,6 +113,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| [Vision-Language Models as Success Detectors](https://arxiv.org/abs/2303.07280) |  | |
-| [SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision](https://arxiv.org/abs/2303.17200)  | | |
+| [Vision-Language Models as Success Detectors](https://arxiv.org/abs/2303.07280)| -- | |
+| [SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision](https://arxiv.org/abs/2303.17200) | -- | |
 
