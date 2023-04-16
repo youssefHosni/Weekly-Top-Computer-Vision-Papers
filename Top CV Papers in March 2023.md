@@ -1,5 +1,11 @@
 # Top Computer Vision Papers in March 2023
 
+Computer vision, a field of artificial intelligence focused on enabling machines to interpret and understand the visual world, is rapidly evolving with groundbreaking research and technological advancements. 
+
+In March 2023, several top-tier academic conferences and journals showcased innovative research in computer vision, presenting exciting breakthroughs in various subfields such as image recognition, vision model optimization, generative adversarial networks (GANs), image segmentation, video analysis, and more. 
+
+In this notebook, we will provide a comprehensive overview of the most significant papers published in March 2023, highlighting the latest research and advancements in computer vision. The papers can be in this 9 categories:
+
 * [Image Recognition]()
 * [Vision Model Optimization]()
 * [Generative Adversarial Networks (GANS)]()
