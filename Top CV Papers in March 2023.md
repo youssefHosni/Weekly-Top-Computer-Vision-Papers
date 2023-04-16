@@ -105,9 +105,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://arxiv.org/abs/2211.16431) | -- | |
 | [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices](https://arxiv.org/abs/2303.01932) |[:octocat:](https://github.com/ActiveVisionLab/MobileBrick) | |
 | [3D Cinemagraphy from a Single Image](https://arxiv.org/abs/2303.05724) |[:octocat:](https://xingyi-li.github.io/3d-cinemagraphy/) | |
-| [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431) | -- |A compact and flexible architecture that enables easy 3D surface reconstruction from any NeRF-driven approach; distills NeRFs into geometrically-accurate 3D meshes.
-
- |
+| [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431) | -- |A compact and flexible architecture that enables easy 3D surface reconstruction from any NeRF-driven approach; distills NeRFs into geometrically-accurate 3D meshes.|
 
 
 
