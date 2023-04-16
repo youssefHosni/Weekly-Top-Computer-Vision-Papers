@@ -76,23 +76,23 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555) |[:octocat:](https://github.com/thu-ml/unidiffuser) | This paper proposes a unified diffusion framework (dubbed UniDiffuser) to fit all distributions relevant to a set of multi-modal data in one model. Inspired by the unified view, UniDiffuser learns all distributions simultaneously with a minimal modification to the original diffusion model - perturbs data in all modalities instead of a single modality, inputs individual timesteps in different modalities, and predicts the noise of all modalities instead of a single modality. |
-| [HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images](https://arxiv.org/abs/2303.16509)  | | |
-| [Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion](https://arxiv.org/abs/2303.08767)  | | |
+| [HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images](https://arxiv.org/abs/2303.16509) | -- | |
+| [Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion](https://arxiv.org/abs/2303.08767) | -- | |
 | [Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation](https://arxiv.org/abs/2302.13848)|[:octocat:](https://github.com/csyxwei/ELITE) | |
-| [TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation](https://arxiv.org/abs/2303.04248) | | |
+| [TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation](https://arxiv.org/abs/2303.04248) | -- | |
 | [Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles](https://arxiv.org/abs/2303.03751)|[:octocat:](https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback)| |
 | [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) |[:octocat:](https://github.com/microsoft/visual-chatgpt) | |
-| [Cones: Concept Neurons in Diffusion Models for Customized Generation](https://arxiv.org/abs/2303.05125)  | | |
+| [Cones: Concept Neurons in Diffusion Models for Customized Generation](https://arxiv.org/abs/2303.05125)  | -- | |
 | [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937) |[:octocat:](https://ku-cvlab.github.io/3DFuse/) | |
 | [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194) |[:octocat:](https://github.com/Winfredy/SadTalker) | |
-| [High-resolution image reconstruction with latent diffusion models from human brain](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)  |  | |
+| [High-resolution image reconstruction with latent diffusion models from human brain](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3)  |  | -- |
 | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) |[:octocat:](https://erasing.baulab.info/) | |
 | [Word-As-Image for Semantic Typography](https://arxiv.org/abs/2303.01818) |[:octocat:](https://wordasimage.github.io/Word-As-Image-Page/) | |
-| [Consistent View Synthesis with Pose-Guided Diffusion Models](https://arxiv.org/abs/2303.17598)  | | |
-| [Discriminative Class Tokens for Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.17155) |  | |
+| [Consistent View Synthesis with Pose-Guided Diffusion Models](https://arxiv.org/abs/2303.17598)  | -- | |
+| [Discriminative Class Tokens for Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.17155) | -- | |
 | [Token Merging for Fast Stable Diffusion](https://arxiv.org/abs/2303.17604)|[:octocat:](https://github.com/dbolya/tomesd) | |
 | [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989) |[:octocat:](https://lukashoel.github.io/text-to-room/) | |
-| [SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger](https://arxiv.org/abs/2303.17561) | | |
+| [SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger](https://arxiv.org/abs/2303.17561) | -- | |
 
 <h4 align="left">8. Image & Video Reconstruction </h4>
 
