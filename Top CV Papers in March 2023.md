@@ -61,6 +61,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 <h4 align="left">5. Video Analysis:</h4>
+
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Unmasked Teacher: Towards Training-Efficient Video Foundation Models](https://arxiv.org/abs/2303.16058)|[:octocat:](https://github.com/OpenGVLab/unmasked_teacher)  | |
@@ -70,6 +71,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 <h4 align="left">6. Image & Video Editing:</h4>
+
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | []()  | | |
