@@ -20,7 +20,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">1. Image Recognition:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) | [:octocat:](https://diffusion-classifier.github.io) | In this paper, the authors show that the density estimates from large-scale text-to-image diffusion models like Stable Diffusion can be leveraged to perform zero-shot classification without any additional training. The  generative approach to classification, which they called Diffusion Classifier, attains strong results on a variety of benchmarks and outperforms alternative methods of extracting knowledge from diffusion models. Although a gap remains between generative and discriminative approaches on zero-shot recognition tasks, they found that this diffusion-based approach has stronger multimodal relational reasoning abilities than competing discriminative approaches.|
 | []()  | | |
@@ -30,7 +30,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">2. Vision Model Optimization:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226) | -- |In this paper, the authors explore the effectiveness of MoE in scaling vision-language models, demonstrating its potential to achieve state-of-the-art performance on a range of benchmarks over dense models of equivalent computational cost. |
 | []()  | | |
@@ -39,7 +39,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left"> 3. Generative Adversarial Networks (GANS) </h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces](https://arxiv.org/abs/2303.06146) |[:octocat:](https://www.mmlab-ntu.com/project/styleganex/) | In this paper, authors  propose a simple and effective solution to this limitation by using dilated convolutions to rescale the receptive fields of shallow layers in StyleGAN, without altering any model parameters. This allows fixed-size small features at shallow layers to be extended into larger ones that can accommodate variable resolutions, making them more robust in characterizing unaligned faces. |
 | [Consistency Models](https://arxiv.org/abs/2303.01469)|-- |The authors propose consistency models, a new family of generative models that achieve high sample quality without adversarial training. They support fast one-step generation by design, while still allowing for few-step sampling to trade compute for sample quality. |
@@ -51,7 +51,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">4. Image Segmentation:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891) |[:octocat:](https://vibashan.github.io/ovis-web/) |This paper proposes a manual-mask-free approach for open-vocabulary instance segmentation leveraging a pre-trained vision-language model. Specifically, the authors generate pseudo-masks annotations for objects of interest from image-caption pairs using pre-trained VLM and weakly-supervised proposal and segmentation networks. These generated pseudo-mask annotations are then used to train an instance segmentation model, completely eliminating the need for human-provided box-level or pixel-level annotations.  |
 | [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803.pdf) |[:octocat:](https://jerryxu.net/ODISE/) |Text-to-image diffusion models have shown the remarkable capability of generating high-quality images with diverse open-vocabulary language descriptions. This demonstrates that their internal representation space is highly correlated with open concepts in the real world. Text-image discriminative models like CLIP, on the other hand, are good at classifying images into open-vocabulary labels. The authors propose to leverage the frozen representation of both these models to perform panoptic segmentation of any category in the wild. |
@@ -62,7 +62,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">5. Video Analysis:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Unmasked Teacher: Towards Training-Efficient Video Foundation Models](https://arxiv.org/abs/2303.16058)|[:octocat:](https://github.com/OpenGVLab/unmasked_teacher)  | |
 | []()  | | |
@@ -72,7 +72,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">6. Image & Video Editing:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Video-P2P: Video Editing with Cross-attention Control]()  | | |
 | [Edit-A-Video: Single Video Editing with Object-Aware Consistency]()  |  | |
@@ -86,7 +86,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">7. Text to Image Generation:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/abs/2303.06555) |[:octocat:](https://github.com/thu-ml/unidiffuser) | This paper proposes a unified diffusion framework (dubbed UniDiffuser) to fit all distributions relevant to a set of multi-modal data in one model. Inspired by the unified view, UniDiffuser learns all distributions simultaneously with a minimal modification to the original diffusion model - perturbs data in all modalities instead of a single modality, inputs individual timesteps in different modalities, and predicts the noise of all modalities instead of a single modality. |
 | [HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images](https://arxiv.org/abs/2303.16509)  | | |
@@ -112,7 +112,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">8. Image & Video Reconstruction:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | []()  |  | |
 | []()  | | |
@@ -121,7 +121,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 <h4 align="left">9. Action Recognition:</h4>
 
-| Paper  | Links | Abstract / Short Summary |
+| Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | [Vision-Language Models as Success Detectors](https://arxiv.org/abs/2303.07280) |  | |
 | [SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision](https://arxiv.org/abs/2303.17200)  | | |
