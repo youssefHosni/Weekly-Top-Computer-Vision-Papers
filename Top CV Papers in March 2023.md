@@ -123,7 +123,6 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
-| []()  |  | |
-| []()  | | |
-| []()  | | |
-| []()  | | |
+| [Vision-Language Models as Success Detectors](https://arxiv.org/abs/2303.07280) |  | |
+| [SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision](https://arxiv.org/abs/2303.17200)  | | |
+
