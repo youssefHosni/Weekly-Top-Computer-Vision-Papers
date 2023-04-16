@@ -92,6 +92,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 <h4 align="left">8. Image & Video Reconstruction:</h4>
+
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | []()  |  | |
@@ -100,6 +101,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | []()  | | |
 
 <h4 align="left">9. Action Recognition:</h4>
+
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 | []()  |  | |
