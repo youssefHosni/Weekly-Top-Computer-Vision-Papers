@@ -11,7 +11,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 * [Generative Adversarial Networks (GANS)](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=3.%20Generative%20Adversarial%20Networks%C2%A0(GANS))
 * [Image Segmentation]()
 * [Video Analysis]()
-* [Image & Video Editing]()
+* [Image & Video Editing](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=6.%20Image%20%26%20Video%20Editing)
 * [Text to Image Generation](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=7.%20Text%20to%20Image%20Generation)
 * [Image & Video Reconstruction](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=8.%20Image%20%26%20Video%20Reconstruction)
 * [Action Recognition](https://github.com/youssefHosni/Montly-Top-Computer-Vision-Papers/blob/main/Top%20CV%20Papers%20in%20March%202023.md#:~:text=9.%20Action%20Recognition)
