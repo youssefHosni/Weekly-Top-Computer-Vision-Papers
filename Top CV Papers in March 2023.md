@@ -23,10 +23,10 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
 |[Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203) | [:octocat:](https://diffusion-classifier.github.io) | In this paper, the authors show that the density estimates from large-scale text-to-image diffusion models like Stable Diffusion can be leveraged to perform zero-shot classification without any additional training. The  generative approach to classification, which they called Diffusion Classifier, attains strong results on a variety of benchmarks and outperforms alternative methods of extracting knowledge from diffusion models. Although a gap remains between generative and discriminative approaches on zero-shot recognition tasks, they found that this diffusion-based approach has stronger multimodal relational reasoning abilities than competing discriminative approaches.|
-| [Prismer: A Vision-Language Model with An Ensemble of Experts](https://arxiv.org/abs/2303.02506) |[:octocat:](https://shikun.io/projects/prismer) | |
+| [Prismer: A Vision-Language Model with An Ensemble of Experts](https://arxiv.org/abs/2303.02506) |[:octocat:](https://shikun.io/projects/prismer) |Prismer is a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts. Prismer achieves fine-tuned and few-shot learning vision-language reasoning performance which is competitive with the current state-of-the-art, whilst requiring up to two orders of magnitude less training data.|
 | [A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision](https://arxiv.org/abs/2303.17376)  | -- | |
 | [SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer](https://arxiv.org/abs/2303.17605)  | -- | |
-| [Patches Are All You Need? — proposes ConvMixer](https://arxiv.org/abs/2201.09792)  | -- | |
+| [Patches Are All You Need? — proposes ConvMixer](https://arxiv.org/abs/2201.09792)  | -- |A parameter-efficient fully-convolutional model which replaces self-attention and MLP layers in ViTs with less-expressive depthwise and pointwise convolutional layers. |
 
 
 <h4 align="left">2. Vision Model Optimization </h4>
