@@ -49,7 +49,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 
-<h4 align="left">4. Image Segmentation:</h4>
+<h4 align="left">4. Image Segmentation </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -60,7 +60,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | []()  | | |
 
 
-<h4 align="left">5. Video Analysis:</h4>
+<h4 align="left">5. Video Analysis </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -70,7 +70,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 | []()  | | |
 
 
-<h4 align="left">6. Image & Video Editing:</h4>
+<h4 align="left">6. Image & Video Editing </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -84,7 +84,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 
-<h4 align="left">7. Text to Image Generation:</h4>
+<h4 align="left">7. Text to Image Generation </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -110,7 +110,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 [:octocat:]()
 
 
-<h4 align="left">8. Image & Video Reconstruction:</h4>
+<h4 align="left">8. Image & Video Reconstruction </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -125,7 +125,7 @@ In this notebook, we will provide a comprehensive overview of the most significa
 
 
 
-<h4 align="left">9. Action Recognition:</h4>
+<h4 align="left">9. Action Recognition </h4>
 
 | Paper  | Project Page | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
