@@ -54,8 +54,25 @@
 | []()  | | |
 
 
+<h4 align="left">5. Video Analysis:</h4>
+| Paper  | Links | Abstract / Short Summary |
+| ------------- | ------------- |------------- |
+| []()  |  | |
+| []()  | | |
+| []()  | | |
+| []()  | | |
 
-<h4 align="left">Text to Image Generation:</h4>
+
+<h4 align="left">6. Image & Video Editing:</h4>
+| Paper  | Links | Abstract / Short Summary |
+| ------------- | ------------- |------------- |
+| []()  |  | |
+| []()  | | |
+| []()  | | |
+| []()  | | |
+
+
+<h4 align="left">7. Text to Image Generation:</h4>
 
 | Paper  | Links | Abstract / Short Summary |
 | ------------- | ------------- |------------- |
@@ -66,3 +83,18 @@
 | []()  | | |
 
 
+<h4 align="left">8. Image & Video Reconstruction:</h4>
+| Paper  | Links | Abstract / Short Summary |
+| ------------- | ------------- |------------- |
+| []()  |  | |
+| []()  | | |
+| []()  | | |
+| []()  | | |
+
+<h4 align="left">9. Action Recognition:</h4>
+| Paper  | Links | Abstract / Short Summary |
+| ------------- | ------------- |------------- |
+| []()  |  | |
+| []()  | | |
+| []()  | | |
+| []()  | | |
