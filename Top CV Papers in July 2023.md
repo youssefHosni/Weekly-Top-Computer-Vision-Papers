@@ -1,15 +1,12 @@
 
 ## 1. Top Computer Vision Papers During Week From 3/7 To 9/7 ##
-#### Image Recognition #### 
 
 | Paper  | Project Page |
 | ------------- | ------------- |
+| #### Image Recognition ####  
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
 
-#### Vision Model Optimization ####
-
-| Paper  | Project Page |
-| ------------- | ------------- |
+| #### Vision Model Optimization #### 
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
 |[MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers](https://arxiv.org/pdf/2307.02321.pdf)| - |
 
