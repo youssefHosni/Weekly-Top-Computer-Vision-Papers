@@ -39,11 +39,10 @@
 |[SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/pdf/2307.00804.pdf)| [:octocat:](https://zhongjinluo.github.io/SketchMetaFace/)|
 |[DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation](https://arxiv.org/pdf/2307.01831.pdf)|-|
 |[DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models](https://arxiv.org/pdf/2307.02321.pdf)|[:octocat:](https://github.com/MC-E/DragonDiffusion)|
-|[SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952.pdf)|[:octocat:](https://github.com/Stability-AI/generative-models
-)|
-
+|[SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952.pdf)|[:octocat:](https://github.com/Stability-AI/generative-models)|
 
 #### Image & Video Reconstruction ####
+
 
 #### Action Recognition  ####
 
