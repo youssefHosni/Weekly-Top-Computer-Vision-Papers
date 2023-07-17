@@ -3,7 +3,7 @@
 
 | Paper  | Project Page |
 | ------------- | ------------- |
-|  **Image Recognition**  | 
+  **Image Recognition**   
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
 | **Vision Model Optimization** |
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
