@@ -3,22 +3,15 @@
 
 | Paper  | Project Page |
 | ------------- | ------------- |
-  **Image Recognition**   
+|  **Image Recognition**        |  
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
 | **Vision Model Optimization** |
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
 |[MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers](https://arxiv.org/pdf/2307.02321.pdf)| - |
-
-#### Image Segmentation #### 
-
-| Paper  | Project Page |
-| ------------- | ------------- |
+|**Image Segmentation**         | 
 | [ReMaX: Relaxing for Better Training on Efficient Anoptic Segmentation](https://arxiv.org/pdf/2306.17319.pdf) |[:octocat:](https://github.com/google-research/deeplab2.)  |
 | [Segment Anything Meets Point Tracking](https://arxiv.org/pdf/2307.01197.pdf) | [:octocat:](https://github.com/SysCV/sam-pt.) |
-
-#### Video Analysis #### 
-| Paper  | Project Page |
-| ------------- | ------------- |
+|**Video Analysis**             | 
 | [VideoGLUE: Video General Understanding Evaluation of Foundation Models](https://arxiv.org/pdf/2307.03166.pdf) | - |
 
 #### Image & Video Editing ####
