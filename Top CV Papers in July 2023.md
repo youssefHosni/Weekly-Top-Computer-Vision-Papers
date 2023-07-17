@@ -3,9 +3,9 @@
 
 | Paper  | Project Page |
 | ------------- | ------------- |
-|  Image Recognition  | 
+|  **Image Recognition**  | 
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
-| Vision Model Optimization |
+| **Vision Model Optimization** |
 | [Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing](https://arxiv.org/pdf/2306.17843.pdf) |[:octocat:](https://arielnlee.github.io/PatchMixing/)  |
 |[MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers](https://arxiv.org/pdf/2307.02321.pdf)| - |
 
