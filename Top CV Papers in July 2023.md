@@ -18,7 +18,7 @@
 | Paper  | Project Page 
 | ------------- | ------------- |
 | [ReMaX: Relaxing for Better Training on Efficient Anoptic Segmentation](https://arxiv.org/pdf/2306.17319.pdf) |[:octocat:](https://github.com/google-research/deeplab2.)  |
-| [Segment Anything Meets Point Tracking]([https://arxiv.org/pdf/2307.02321.pdf](https://arxiv.org/pdf/2307.01197.pdf)| [:octocat:](https://github.com/SysCV/sam-pt.) |
+| [Segment Anything Meets Point Tracking]([https://arxiv.org/pdf/2307.02321.pdf](https://arxiv.org/pdf/2307.01197.pdf) | [:octocat:](https://github.com/SysCV/sam-pt.) |
 
 
 #### Video Analysis #### 
