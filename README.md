@@ -4,6 +4,10 @@ Top computer vision papers are published by the scientific community every month
 
 Every day several top-tier academic conferences and journals showcased innovative research in computer vision, presenting exciting breakthroughs in various subfields such as image recognition, vision model optimization, generative adversarial networks (GANs), image segmentation, video analysis, and more. In this GitHub repo, I gathered the top computer vision papers published on a monthly basis. 
 
+### Top Computer Vision Papers | August 2023
+* [Top Computer Vision Papers During Week From 31/7 To 6/8](https://pub.towardsai.net/top-computer-vision-papers-during-week-from-24-7-to-31-7-de7eb25d3fd8?sk=d622fd45365a08c67f9c8a08f5419a54)
+
+
 ### Top Computer Vision Papers | July 2023
 * [Top Computer Vision Papers During Week From 3/7 To 9/7](https://pub.towardsai.net/top-computer-vision-papers-during-week-from-3-7-to-9-7-4c3083fd713c?sk=6e373aea0638d9ca2bf9206cedc5d08e)
 * [Top Computer Vision Papers During Week From 10/7 To 16/7](https://pub.towardsai.net/top-computer-vision-papers-during-week-from-10-7-to-16-7-97e0bdb58c2?sk=0924b52153bdf011c8dbba9576defee3)
