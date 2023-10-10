@@ -18,6 +18,9 @@ Every day several top-tier academic conferences and journals showcased innovativ
 
 ![Copy of Top Important Computer Vision Papers During week](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/assets/72076328/8711c7c9-2a82-42f2-aafd-560e39fe7913)
 
+### Awesome Computer Vision Papers | October 2023
+* [Top Important Computer Vision Papers for the Week from 2/10 to 8/10]()
+  
 
 ### Awesome Computer Vision Papers | September 2023
 * [Top Important Computer Vision Papers for the Week from 4/9 to 10/9](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-4-9-to-10-9-13913a29c6db?sk=461dbb205c9bfaafa800756bfdb2f6dc)
