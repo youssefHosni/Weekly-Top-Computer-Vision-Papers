@@ -24,7 +24,7 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 2/10 to 8/10](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-2-10-to-8-10-1db3c079965d?sk=4e0e6ef4fe894b30ad0ce2f027efaeaf)
 * [Top Important Computer Vision Papers for the Week from 9/10 to 15/10](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-9-10-to-15-10-43e8bd24db2d?sk=9481b99a59a9ee4e68c6a75441c01cb1)
 * [Top Important Computer Vision Papers for the Week from 16/10 to 22/10](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-16-10-to-22-10-2597ed446eac?sk=83b7094b8b85be2a62333881501fc940)
-* [Top Important Computer Vision Papers for the Week from 23/10 to 29/10]()
+* [Top Important Computer Vision Papers for the Week from 23/10 to 29/10](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-23-10-to-29-10-150cd56b4d87?sk=8a78a750008b27ad0ccc9405d22eab1b)
   
 
 ### Top Computer Vision Papers | September 2023
