@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/stargazers/)
 
 
-Top computer vision papers are published by the scientific community every month. 
+Top computer vision papers are published by the scientific community on a weekly basis. 
 
 
 Every day several top-tier academic conferences and journals showcased innovative research in computer vision, presenting exciting breakthroughs in various subfields such as image recognition, vision model optimization, generative adversarial networks (GANs), image segmentation, video analysis, and more. In this GitHub repo, I gathered the top computer vision papers published on a monthly basis. 
