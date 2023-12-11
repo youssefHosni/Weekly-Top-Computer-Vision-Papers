@@ -19,7 +19,8 @@ Every day several top-tier academic conferences and journals showcased innovativ
 ![Copy of Top Important Computer Vision Papers During week](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/assets/72076328/8711c7c9-2a82-42f2-aafd-560e39fe7913)
 
 ### Top Computer Vision Papers | December 2023
-* [Top Important Computer Vision Papers for the Week from 27/11 to 03/12]()
+* [Top Important Computer Vision Papers for the Week from 27/11 to 03/12](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-27-11-to-03-12-0d7f4b6a4a30?sk=21b3b38d73c61f491989c899c1cb5523)
+* [Top Important LLM Papers for the Week from 04/12 to 10/12]()
 
 ### Top Computer Vision Papers | November 2023
 * [Top Important Computer Vision Papers for the Week from 30/10 to 5/11](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-30-10-to-5-11-c133d222f0ad?sk=196b86322cb2bcd2b4b73ba7e784e951)
