@@ -22,6 +22,7 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 27/11 to 03/12](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-27-11-to-03-12-0d7f4b6a4a30?sk=21b3b38d73c61f491989c899c1cb5523)
 * [Top Important LLM Papers for the Week from 04/12 to 10/12](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-04-12-to-10-12-d15a991e3ad6?sk=6a209ec06bcdfb7445fc0efb638c03fc)
 * [Top Important Computer Vision Papers for the Week from 11/12 to 17/12](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-11-12-to-17-12-dca9d12456c0?sk=b37e422a96eda00be905a87cf6b12a08)
+* [Top Important Computer Vision Papers for the Week from 18/12 to 24/12](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-18-12-to-24-12-df684641ed20?sk=5bb14f4c8386bef8916d4fac0213b6f1)
 
 ### Top Computer Vision Papers | November 2023
 * [Top Important Computer Vision Papers for the Week from 30/10 to 5/11](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-30-10-to-5-11-c133d222f0ad?sk=196b86322cb2bcd2b4b73ba7e784e951)
