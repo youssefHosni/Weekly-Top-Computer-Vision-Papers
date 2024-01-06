@@ -1,4 +1,4 @@
-# Awesome-Computer-Vision-Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Weekly-Top-Computer-Vision-Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg)](https://github.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/graphs/contributors/)
