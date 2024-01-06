@@ -1,9 +1,9 @@
 # Weekly-Top-Computer-Vision-Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg)](https://github.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/pulls/)
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Weekly-Top-Computer-Vision-Papers.svg)](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Weekly-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Weekly-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Weekly-Top-Computer-Vision-Papers.svg)](https://GitHub.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/watchers/)
