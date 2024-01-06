@@ -15,9 +15,13 @@ Top computer vision papers are published by the scientific community every week.
 
 
 Every day several top-tier academic conferences and journals showcased innovative research in computer vision, presenting exciting breakthroughs in various subfields such as image recognition, vision model optimization, generative adversarial networks (GANs), image segmentation, video analysis, and more. In this GitHub repo, I gathered the top computer vision papers published every week. 
-
 ![Copy of Top Important Computer Vision Papers During week](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/assets/72076328/8711c7c9-2a82-42f2-aafd-560e39fe7913)
 
+
+# Weekly Top Computer Vision Papers In 2024 #
+
+
+# Weekly Top Computer Vision Papers In 2023 #
 ### Top Computer Vision Papers | December 2023
 * [Top Important Computer Vision Papers for the Week from 27/11 to 03/12](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-27-11-to-03-12-0d7f4b6a4a30?sk=21b3b38d73c61f491989c899c1cb5523)
 * [Top Important LLM Papers for the Week from 04/12 to 10/12](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-04-12-to-10-12-d15a991e3ad6?sk=6a209ec06bcdfb7445fc0efb638c03fc)
