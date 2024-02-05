@@ -18,11 +18,14 @@ Every day several top-tier academic conferences and journals showcased innovativ
 
 
 ## Weekly Top Computer Vision Papers In 2024 ##
-### Weekly Top Computer Vision Papers | January 2024
+### Weekly Top Computer Vision Papers | January 2024 ###
 * [Top Important Computer Vision Papers for the Week from 01/1 to 07/1](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-01-01-to-07-01-17ce3107debc?sk=71e13d2ae4c7c65acec3ee02c49299c2)
 * [Top Important Computer Vision Papers for the Week from 08/01 to 14/01](https://medium.com/@yousefhosni/top-important-computer-vision-papers-for-the-week-from-08-01-to-14-01-0bf3eb33953f?sk=f68bce50388418c4087638c82349e9ee)
 * [Top Important Computer Vision Papers for the Week from 15/01 to 21/01](https://pub.towardsai.net/top-important-computer-vision-papers-for-the-week-from-15-01-to-21-01-251fb0654d2f?sk=0c132cd77f7a3b893bb75712bc15abc3)
 * [Top Important Computer Vision Papers for the Week from 22/01 to 28/01](https://medium.com/@yousefhosni/top-important-computer-vision-papers-for-the-week-from-22-01-to-28-01-54cf9d4dc22e?sk=00c4407d7ad79a153ec919cc2b243f90)
+
+### Weekly Top Computer Vision Papers | February 2024
+*[Top Important Computer Vision Papers for the Week from 29/01 to 04/02]()
 
 ## Weekly Top Computer Vision Papers In 2023 ##
 
