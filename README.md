@@ -25,7 +25,7 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 22/01 to 28/01](https://medium.com/@yousefhosni/top-important-computer-vision-papers-for-the-week-from-22-01-to-28-01-54cf9d4dc22e?sk=00c4407d7ad79a153ec919cc2b243f90)
 
 ### Weekly Top Computer Vision Papers | February 2024
-*[Top Important Computer Vision Papers for the Week from 29/01 to 04/02](https://medium.com/@yousefhosni/top-important-computer-vision-papers-for-the-week-from-29-01-to-04-02-1566b4b0fe32?sk=a7a0068cdebf86a19d30637a59ea7b1d)
+* [Top Important Computer Vision Papers for the Week from 29/01 to 04/02](https://medium.com/@yousefhosni/top-important-computer-vision-papers-for-the-week-from-29-01-to-04-02-1566b4b0fe32?sk=a7a0068cdebf86a19d30637a59ea7b1d)
 * [Top Important Computer Vision Papers for the Week from 05/02 to 11/02](https://medium.com/gitconnected/top-important-computer-vision-papers-for-the-week-from-05-02-to-11-02-c1125d1efe0c?sk=58bd608d24b078b6f8733ccdf6b5ef5f)
 * [Top Important Computer Vision Papers for the Week from 12/02 to 18/02]()
 
