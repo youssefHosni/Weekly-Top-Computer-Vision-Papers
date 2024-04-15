@@ -38,6 +38,8 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 25/03 to 31/03]()
 
 ### Weekly Top Computer Vision Papers | April 2024
+* [Top Important Computer Vision Papers for the Week from 01/04 to 07/04]()
+* 
 
 
 ----------------------------------------------------
