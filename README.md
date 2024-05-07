@@ -44,6 +44,7 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 22/04 to 28/04](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-22-04-to-28-04-a96f1eff1afc?sk=3345017ea55fd7e70cce7b36adfe6583)
 
   ### Weekly Top Computer Vision Papers | May 2024
+  * [Top Important Computer Vision Papers for the Week from 29/04 to 05/05]()
 
 ----------------------------------------------------
 
