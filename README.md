@@ -43,9 +43,13 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 15/04 to 21/04](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-15-04-to-21-04-581d20a67f03?sk=0bfb495417f1d783d2d38b5da47370cb)
 * [Top Important Computer Vision Papers for the Week from 22/04 to 28/04](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-22-04-to-28-04-a96f1eff1afc?sk=3345017ea55fd7e70cce7b36adfe6583)
 
-  ### Weekly Top Computer Vision Papers | May 2024
-  * [Top Important Computer Vision Papers for the Week from 29/04 to 05/05](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-29-04-to-05-05-8b5fa2a55978?sk=08f26f1ceb8f78c138a51ba3084de52e)
-  * [Top Important Computer Vision Papers for the Week from 13/05 to 19/05](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-13-05-to-19-05-f9563c93a256?sk=099826b6805c2e00ec54837c7e4274a5)
+## Weekly Top Computer Vision Papers | May 2024
+* [Top Important Computer Vision Papers for the Week from 29/04 to 05/05](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-29-04-to-05-05-8b5fa2a55978?sk=08f26f1ceb8f78c138a51ba3084de52e)
+* [Top Important Computer Vision Papers for the Week from 13/05 to 19/05](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-13-05-to-19-05-f9563c93a256?sk=099826b6805c2e00ec54837c7e4274a5)
+* [Top Important Computer Vision Papers for the Week from 27/05 to 02/06](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-27-05-to-02-06-f3f5625b9166?sk=56f8c6b2b4111ee729c175be74fd8095)
+
+## Weekly Top Computer Vision Papers | June 2024
+* [Top Important Computer Vision Papers for the Week from 03/06 to 09/06](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-27-05-to-02-06-d38df7c061b7?sk=c1e87a962f27f263b75eeb8b802ae54e)
 
 ----------------------------------------------------
 
