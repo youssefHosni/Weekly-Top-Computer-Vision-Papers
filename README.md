@@ -52,6 +52,7 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 03/06 to 09/06](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-27-05-to-02-06-d38df7c061b7?sk=c1e87a962f27f263b75eeb8b802ae54e)
 * [Top Important Computer Vision Papers for the Week from 10/06 to 16/06](https://medium.com/@yousefhosni/top-important-computer-vision-papers-for-the-week-from-10-06-to-16-06-6fb6512d6424?sk=8ded25aa9202c480dcf9eea1d54a6a51)
 * [Top Important Computer Vision Papers for the Week from 17/06 to 23/06](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-17-06-to-23-06-858993de1666?sk=c8e6b23ce697bcb103f34c8dc4dacd6d)
+* [Top Important Computer Vision Papers for the Week from 24/06 to 30/06](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-24-06-to-30-06-ccfc7c704b0c?sk=8ead3e6f6659bca9f996e0e3567e7d5f)
 
 ----------------------------------------------------
 
