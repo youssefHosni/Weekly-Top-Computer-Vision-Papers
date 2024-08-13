@@ -58,6 +58,12 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Top Important Computer Vision Papers for the Week from 01/07 to 07/07](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-01-07-to-07-07-0d899efb2e1f?sk=ac8e99c2436dbc5eb003fab2249dde7e)
 * [Top Important Computer Vision Papers for the Week from 08/07 to 14/07](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-08-07-to-14-07-31097f3b0ecb?sk=bc5f140e6c5855602b873d615fc69442)
 * [Top Important Computer Vision Papers for the Week from 15/07 to 21/07](https://medium.com/towards-artificial-intelligence/top-important-computer-vision-papers-for-the-week-from-15-07-to-21-07-6e3b853e8dd5?sk=8e86591f86f5cebf589876acb6b95edc)
+* [Important Computer Vision Papers for the Week from 22/07 to 28/07](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Important Computer Vision Papers for the Week from 29/07 to 04/08](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-f24?r=1sqbmi&utm_campaign=post&utm_medium=web)
+
+## Weekly Top Computer Vision Papers | August 2024
+
+
 ----------------------------------------------------
 
 ## Weekly Top Computer Vision Papers In 2023 ##
