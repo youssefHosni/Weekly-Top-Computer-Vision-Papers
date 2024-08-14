@@ -62,7 +62,7 @@ Every day several top-tier academic conferences and journals showcased innovativ
 * [Important Computer Vision Papers for the Week from 29/07 to 04/08](https://open.substack.com/pub/youssefh/p/important-llms-papers-for-the-week-f24?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
 ## Weekly Top Computer Vision Papers | August 2024
-
+*[Important Computer Vision Papers for the Week from 05/08 to 11/08](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-d7a?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
 ----------------------------------------------------
 
