@@ -17,4 +17,4 @@ Every day several top-tier academic conferences and journals showcased innovativ
 ![Copy of Top Important Computer Vision Papers During week](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/assets/72076328/8711c7c9-2a82-42f2-aafd-560e39fe7913)
 
 * [Weekly Top Papers in 2024](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/blob/main/Weekly-Top-Computer-Vision-Papers-2024.md)
-* [Weekly Top Papers in 2023](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers)
+* [Weekly Top Papers in 2023](https://github.com/youssefHosni/Weekly-Top-Computer-Vision-Papers/blob/main/Weekly-Top-Computer-Vision-Papers-2023.md)
