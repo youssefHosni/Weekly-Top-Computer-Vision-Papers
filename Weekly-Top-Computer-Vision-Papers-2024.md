@@ -53,5 +53,7 @@
 * [Important Computer Vision Papers for the Week from 09/09 to 15/09](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-d82?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Important Computer Vision Papers for the Week from 16/09 to 22/09](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-c23?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Important Computer Vision Papers for the Week from 23/09 to 29/09](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-c6b?r=1sqbmi&utm_campaign=post&utm_medium=web)
+
 ## Weekly Top Computer Vision Papers | October 2024 ##
+* [Important Computer Vision Papers for the Week from 30/09 to 06/10](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-f47?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
