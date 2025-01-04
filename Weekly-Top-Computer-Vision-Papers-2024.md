@@ -70,3 +70,4 @@
 ## Weekly Top Computer Vision Papers | December 2024 ##
 * [Important Computer Vision Papers for the Week from 02/12 to 08/12](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-0d2?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Important Computer Vision Papers for the Week from 16/12 to 22/12](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-d3f?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Important Computer Vision Papers for the Week from 23/12 to 29/12](https://open.substack.com/pub/youssefh/p/important-computer-vision-papers-a5d?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
